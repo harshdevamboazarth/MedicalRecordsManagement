@@ -26,6 +26,6 @@ The project is developed and maintained by
 - change the directory to "/fabric-dev-servers/fabric-scripts/hlfv1/composer" to access the docker-compose.yml file
 - Run docker-compose stop to stop the Fabric Containers.
 - Run docker-compose start to restart from where you left off.
-- get into the cloned repository's directory: cd /fabric-dev-servers/Electronic-Health-Record-System
-- Run this command to start the server: composer-rest-server -c admin@ehr -n always -u true -d y -w true
+- get into the cloned repository's directory: cd /fabric-dev-servers/MedicalRecordsManagement
+- Run this command to start the server: composer-rest-server -c admin@medicalrecords -n always -u true -d y -w true
 - Go to http://localhost:3000/explorer to explore the REST API.
