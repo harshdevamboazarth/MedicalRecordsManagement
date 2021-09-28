@@ -10,7 +10,7 @@ The project is developed and maintained by
 - Arth Vahaluwala
 
 # Instructions to run the API Backend
-- Clone the repo `git clone https://github.com/Akshat-Jain/EHR-System.git`
+- Clone the repo `git clone EHR-System.git`
 - move to the directoory we cloned in the previous step `cd EHR-System`.
 - At first, install [Hyperledger composer](https://hyperledger.github.io/composer/latest/installing/installing-prereqs.html). Then install the [development environment](https://hyperledger.github.io/composer/latest/installing/development-tools.html).
 - In order to setup your Blockchain network and generate Hyperledger Composer Rest Server, execute the following commands:
